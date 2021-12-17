@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				177B9600276D54FF004E7F1A /* TestNewFilesApp.swift */,
-				177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */,
+				177B9633276D5781004E7F1A /* New Group */,
 				177B9602276D54FF004E7F1A /* ContentView.swift */,
 				177B9604276D5503004E7F1A /* Assets.xcassets */,
 				177B9609276D5503004E7F1A /* Info.plist */,
@@ -131,6 +131,14 @@
 				177B961F276D5504004E7F1A /* Info.plist */,
 			);
 			path = TestNewFilesUITests;
+			sourceTree = "<group>";
+		};
+		177B9633276D5781004E7F1A /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
