@@ -16,4 +16,5 @@ struct TestNewFilesApp: App {
     }
     
     // Make first change
+    // Make second change
 }
