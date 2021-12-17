@@ -13,6 +13,7 @@
 		177B9608276D5503004E7F1A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 177B9607276D5503004E7F1A /* Preview Assets.xcassets */; };
 		177B9613276D5504004E7F1A /* TestNewFilesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B9612276D5504004E7F1A /* TestNewFilesTests.swift */; };
 		177B961E276D5504004E7F1A /* TestNewFilesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B961D276D5504004E7F1A /* TestNewFilesUITests.swift */; };
+		177B962F276D5741004E7F1A /* FirstNewFileOnMaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		177B9619276D5504004E7F1A /* TestNewFilesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestNewFilesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		177B961D276D5504004E7F1A /* TestNewFilesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestNewFilesUITests.swift; sourceTree = "<group>"; };
 		177B961F276D5504004E7F1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstNewFileOnMaster.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				177B9600276D54FF004E7F1A /* TestNewFilesApp.swift */,
+				177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */,
 				177B9602276D54FF004E7F1A /* ContentView.swift */,
 				177B9604276D5503004E7F1A /* Assets.xcassets */,
 				177B9609276D5503004E7F1A /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				177B9603276D54FF004E7F1A /* ContentView.swift in Sources */,
 				177B9601276D54FF004E7F1A /* TestNewFilesApp.swift in Sources */,
+				177B962F276D5741004E7F1A /* FirstNewFileOnMaster.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
