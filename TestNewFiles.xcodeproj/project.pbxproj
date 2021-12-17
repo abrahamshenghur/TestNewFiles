@@ -139,9 +139,25 @@
 			isa = PBXGroup;
 			children = (
 				177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */,
-				177B9634276D589E004E7F1A /* ASWebView.swift */,
+				177B963C276D58E9004E7F1A /* Custom Views */,
 			);
 			path = "New Group";
+			sourceTree = "<group>";
+		};
+		177B963C276D58E9004E7F1A /* Custom Views */ = {
+			isa = PBXGroup;
+			children = (
+				177B963D276D58FC004E7F1A /* WebView */,
+			);
+			path = "Custom Views";
+			sourceTree = "<group>";
+		};
+		177B963D276D58FC004E7F1A /* WebView */ = {
+			isa = PBXGroup;
+			children = (
+				177B9634276D589E004E7F1A /* ASWebView.swift */,
+			);
+			path = WebView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
