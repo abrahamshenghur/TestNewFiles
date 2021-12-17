@@ -8,3 +8,4 @@
 import Foundation
 
 // first new file on master branch
+// Adding some initial features
