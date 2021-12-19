@@ -15,6 +15,7 @@
 		177B961E276D5504004E7F1A /* TestNewFilesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B961D276D5504004E7F1A /* TestNewFilesUITests.swift */; };
 		177B962F276D5741004E7F1A /* FirstNewFileOnMaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */; };
 		177B9635276D589E004E7F1A /* ASWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B9634276D589E004E7F1A /* ASWebView.swift */; };
+		177B9645276EF72A004E7F1A /* Feature-A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B9644276EF72A004E7F1A /* Feature-A.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		177B961F276D5504004E7F1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstNewFileOnMaster.swift; sourceTree = "<group>"; };
 		177B9634276D589E004E7F1A /* ASWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ASWebView.swift; sourceTree = "<group>"; };
+		177B9644276EF72A004E7F1A /* Feature-A.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Feature-A.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 			isa = PBXGroup;
 			children = (
 				177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */,
+				177B9649276EFA3C004E7F1A /* Feature-A */,
 				177B963C276D58E9004E7F1A /* Custom Views */,
 			);
 			path = "New Group";
@@ -158,6 +161,14 @@
 				177B9634276D589E004E7F1A /* ASWebView.swift */,
 			);
 			path = WebView;
+			sourceTree = "<group>";
+		};
+		177B9649276EFA3C004E7F1A /* Feature-A */ = {
+			isa = PBXGroup;
+			children = (
+				177B9644276EF72A004E7F1A /* Feature-A.swift */,
+			);
+			path = "Feature-A";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -290,6 +301,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				177B9603276D54FF004E7F1A /* ContentView.swift in Sources */,
+				177B9645276EF72A004E7F1A /* Feature-A.swift in Sources */,
 				177B9601276D54FF004E7F1A /* TestNewFilesApp.swift in Sources */,
 				177B962F276D5741004E7F1A /* FirstNewFileOnMaster.swift in Sources */,
 				177B9635276D589E004E7F1A /* ASWebView.swift in Sources */,
