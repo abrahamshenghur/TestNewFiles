@@ -9,3 +9,4 @@ import Foundation
 
 // first new file on master branch
 // Adding some initial features
+// Making a hotfix on master branch
