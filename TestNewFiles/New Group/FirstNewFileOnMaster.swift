@@ -15,3 +15,4 @@ import Foundation
 // On master will it push along with featuer-test?
 // will master get pushed while on feature-test branch?
 // will it work
+// on master, did the upstream command
