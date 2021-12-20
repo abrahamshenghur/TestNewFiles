@@ -17,3 +17,4 @@ import Foundation
 // will it work
 // on master, did the upstream command
 // on master but idk
+// on master changed global config push
