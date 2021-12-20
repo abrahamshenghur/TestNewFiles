@@ -16,6 +16,7 @@
 		177B962F276D5741004E7F1A /* FirstNewFileOnMaster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */; };
 		177B9635276D589E004E7F1A /* ASWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B9634276D589E004E7F1A /* ASWebView.swift */; };
 		177B9645276EF72A004E7F1A /* Feature-A.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B9644276EF72A004E7F1A /* Feature-A.swift */; };
+		177B9651277048BA004E7F1A /* Feature-Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 177B9650277048BA004E7F1A /* Feature-Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		177B962E276D5741004E7F1A /* FirstNewFileOnMaster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstNewFileOnMaster.swift; sourceTree = "<group>"; };
 		177B9634276D589E004E7F1A /* ASWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ASWebView.swift; sourceTree = "<group>"; };
 		177B9644276EF72A004E7F1A /* Feature-A.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Feature-A.swift"; sourceTree = "<group>"; };
+		177B9650277048BA004E7F1A /* Feature-Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Feature-Test.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 			isa = PBXGroup;
 			children = (
 				177B9644276EF72A004E7F1A /* Feature-A.swift */,
+				177B9650277048BA004E7F1A /* Feature-Test.swift */,
 			);
 			path = "Feature-A";
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 				177B9645276EF72A004E7F1A /* Feature-A.swift in Sources */,
 				177B9601276D54FF004E7F1A /* TestNewFilesApp.swift in Sources */,
 				177B962F276D5741004E7F1A /* FirstNewFileOnMaster.swift in Sources */,
+				177B9651277048BA004E7F1A /* Feature-Test.swift in Sources */,
 				177B9635276D589E004E7F1A /* ASWebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
