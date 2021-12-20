@@ -12,3 +12,4 @@ import Foundation
 // will feature--test push along with master?
 // will it work 
 // on feature-test and did the upstream command
+// on feature-test changed global config
