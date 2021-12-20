@@ -12,3 +12,4 @@ import Foundation
 // Making a hotfix on master branch
 // On feature brance, changing some things against master branch
 // On mastaer branch, making an update
+// On master will it push along with featuer-test?
